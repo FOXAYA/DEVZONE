@@ -58,7 +58,7 @@ header {
 
 /*************Home Styles**********************/
 #home {
-  background-image: url("./background.jpg");
+  background-image: url("./images/background.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   height: 100vh;

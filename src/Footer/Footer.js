@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import Header from "../Header/Header";
-import facebook from "../facebook.svg";
-import twitter from "../twitter.svg";
-import insta from "../instagram.svg";
-import pintrest from "../pint.svg";
+import facebook from "../images/facebook.svg";
+import twitter from "../images/twitter.svg";
+import insta from "../images/instagram.svg";
+import pintrest from "../images/pint.svg";
 
 class Footer extends Component {
   render() {
